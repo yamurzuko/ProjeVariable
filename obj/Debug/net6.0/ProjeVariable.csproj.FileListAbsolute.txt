@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Practises/ProjeVariable/bin/Debug/net6.0/ProjeVariable
+/Users/ugurcanyagmur/Practises/ProjeVariable/bin/Debug/net6.0/ProjeVariable.deps.json
+/Users/ugurcanyagmur/Practises/ProjeVariable/bin/Debug/net6.0/ProjeVariable.runtimeconfig.json
+/Users/ugurcanyagmur/Practises/ProjeVariable/bin/Debug/net6.0/ProjeVariable.dll
+/Users/ugurcanyagmur/Practises/ProjeVariable/bin/Debug/net6.0/ProjeVariable.pdb
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.AssemblyInfo.cs
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.dll
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/refint/ProjeVariable.dll
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.pdb
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ProjeVariable.genruntimeconfig.cache
+/Users/ugurcanyagmur/Practises/ProjeVariable/obj/Debug/net6.0/ref/ProjeVariable.dll
